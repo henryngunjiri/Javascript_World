@@ -1,0 +1,36 @@
+body{
+
+	margin: 0 0 ;
+
+}
+
+#color-display-container{
+	height: 100px;
+	width: 50%;
+	
+	margin: auto;
+	border: 1px solid #000000;
+	background: #000000;
+	overflow: auto;
+}
+input{
+
+	width: 50%;
+	
+	
+}
+input,label span {
+	position:relative;
+	left: 25%;
+}
+p{
+	display: inline-block;
+	
+	font-weight: bold;
+	font-style: italic;
+	color:#000000;
+	border-bottom: 3px solid;
+	position:relative;
+	left: 45%;
+
+}
